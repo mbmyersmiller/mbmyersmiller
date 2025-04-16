@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mbmyersmiller
+- 👋 Hi, I’m MacKenzie!
 - 👀 I’m interested in youth sports training, women's health, & data analytics
 - 🌱 I’m currently learning QA Testing, Python, SQL, & data analysis
 - 💞️ I’m looking to collaborate on projects related to health, wellness, & training
